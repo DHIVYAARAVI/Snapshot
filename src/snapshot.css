@@ -26,7 +26,7 @@ img{
 .images{
     display: flex;
     flex-wrap: wrap;
-    padding: 5%;
+    padding: 3%;
     background-color: #D0F0C0;
 }
 
